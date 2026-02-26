@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Header / Name -->
+## Hi 👋, I'm Md. Asif Hassan
 
-<!--
-**md-asif-hassan/md-asif-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Subtitle / Roles with Profile Views -->
+<p>
+ <strong>Software Engineer | QA Enthusiast | ML Explorer</strong>
+ <img align="right" src="https://komarev.com/ghpvc/?username=md-asif-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="md-asif-hassan"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- Horizontal rule to separate header from About Me -->
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Me Section -->
+I’m a passionate **Software Engineer** with expertise in **Software Quality Assurance** and **Intelligent Systems**.  
+I focus on building **reliable, scalable applications** while ensuring high-quality delivery through **structured testing, automation, and process-driven practices**.
+
+Proficient in **Python** and **Java**, with a growing interest in **Machine Learning**, I combine development skills, QA expertise, and analytical problem-solving to deliver **robust, data-driven software solutions**.
+
+<!-- Horizontal rule to separate About Me from Footer -->
+---
+
+<!-- Footer / Signature -->
+<p align="center">
+  <code>&lt;/&gt;</code> & Crafted with 💚 Md. Asif Hassan
+</p>
